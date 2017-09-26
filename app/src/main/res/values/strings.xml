@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">Learn More</string>
+  <string name="country_detail__country_name_label">Nom</string>
+  <string name="country_detail__country_code_label">Code</string>
+  <string name="code_appel">Code Communication</string>
+  <string name="capital">Capital</string>
+  <string name="region">Region</string>
+  <string name="population">Population</string>
+  <string name="area">Superficie</string>
+</resources>
